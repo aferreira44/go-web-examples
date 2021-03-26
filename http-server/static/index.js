@@ -1,3 +1,3 @@
 window.onload = () => {
-    console.log('All assets are loaded')
+    alert('All assets are loaded')
 }
